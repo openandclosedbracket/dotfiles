@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mail 
+Exec=microsoft-edge-stable --app=https://mail.notion.so/inbox?from=appSwitcher
+Icon=mail
+Type=Application
+Categories=Network;InstantMessaging;
+StartupWMClass=WhatsApp
+

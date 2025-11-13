@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Calendar
+Exec=microsoft-edge-stable --app=https://calendar.notion.so/
+Icon=notion-calendar
+Type=Application
+Categories=Network;InstantMessaging;
+StartupWMClass=WhatsApp
+

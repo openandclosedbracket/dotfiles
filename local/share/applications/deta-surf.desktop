@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.3.0-beta.0.x86
+Type=Application
+Name=Deta Surf
+GenericName=Web Browser
+Comment=An AI notebook
+Exec=/usr/bin/deta-surf %U --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland
+Icon=deta-surf
+Terminal=false
+Categories=Network;WebBrowser;Utility;
+MimeType=x-scheme-handler/http;x-scheme-handler/https;text/html;
+StartupNotify=true
+StartupWMClass=Deta Surf

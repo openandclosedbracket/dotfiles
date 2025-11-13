@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Notion 
+Exec=microsoft-edge-stable --app=https://www.notion.so/Student-Planner-26e39f8f697580c1b9e1cb9cf090fd71
+Icon=notion
+Type=Application
+Categories=Network;InstantMessaging;
+StartupWMClass=WhatsApp
+
